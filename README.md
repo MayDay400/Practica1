@@ -1,1 +1,1 @@
-# Practicas-Sistemas-EXpertos
+# Practicas-Sistemas-Expertos
